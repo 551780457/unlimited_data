@@ -32,7 +32,7 @@ Android: <a href="http://www.coolapk.com/apk/com.alorma.github">GitSkarios</a>
 
 ##如何加入协作？
 你可以添加issues参与讨论和协作，但我们还是建议到<a href ="https://telegram.me/Unlimited_Data">Telegram</a>讨论。  
-想要参与项目维护请在issues提出并注明你的Github用户名，管理员将尽快将你加入维护团队。  
+想要参与项目维护Fork一个仓库并修改，在修改完成后提交Pull request并接受审核。
 我们相信合作和分享的力量。  
   
 ##接下来
