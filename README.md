@@ -17,21 +17,20 @@ macOS:<a href="https://www.git-tower.com/">Tower</a>
 Android: <a href="http://www.coolapk.com/apk/com.alorma.github">GitSkarios</a>  
   
 ##文件夹标准格式
+<script type="text/javascript">
 [移动数据免流仓库 (root)]  
-  [配置文件]  
-    [OpenVPN]  
-      教程.md  
-      ...  
+ [配置文件]  
+  [OpenVPN]  
+   教程.md  
+   ...  
   [模式 2]  
-    ...  
   [模式 3]  
-    ...  
+  [...]
+ [原理和教程]  
+  文档格式.md  
   ...  
-  [原理和教程]  
-    文档格式.md  
-    ...  
 README.md  
-  
+</script>
 ##如何加入协作？
 你可以添加issues参与讨论和协作，但我们还是建议到<a href ="https://telegram.me/Unlimited_Data">Telegram</a>讨论。  
 想要参与项目维护请在issues提出并注明你的Github用户名，管理员将尽快将你加入维护团队。  
