@@ -24,7 +24,7 @@ Android: <a href="http://www.coolapk.com/apk/com.alorma.github">GitSkarios</a>
 　　　...  
 　　[模式 2]  
 　　[模式 3]  
-　　[...]
+　　[...]  
 　[原理和教程]  
 　　文档格式.md  
 　　...  
