@@ -28,6 +28,7 @@ Android: <a href="http://www.coolapk.com/apk/com.alorma.github">GitSkarios</a>
 　[原理和教程]  
 　　文档格式.md  
 　　...  
+　LISENCE
 　README.md  
 
 ##如何加入协作？
@@ -45,5 +46,5 @@ Android: <a href="http://www.coolapk.com/apk/com.alorma.github">GitSkarios</a>
 
 
 
-查看主页：<a href="#">正在建设中...</a>  
+查看主页：<a href="http://ouyang.ga/unlimited_data">Unlimited Data</a>  
 加入讨论：<a href ="https://telegram.me/Unlimited_Data">Telegram 群</a>
