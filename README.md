@@ -6,7 +6,7 @@ Unlimited Data Repo
 正在建设中，预计上线时间: 2016/6/25
   
 ##如何使用？
-1.找到对应的仓库分支  
+1.找到对应的文件夹  
 2.找到相应的模式或原理教程文档  
 3.按照不同教程的要求设置并测试  
 4.仅当测试免流成功方可使用！切记！  
@@ -18,17 +18,22 @@ Android: <a href="http://www.coolapk.com/apk/com.alorma.github">GitSkarios</a>
   
 ##文件夹标准格式
 [移动数据免流仓库 (root)]  
-　[配置文件]  
-　　[OpenVPN]  
-　　　教程.md  
-　　　...  
-　　[模式 2]  
-　　[模式 3]  
+　[联通]  
+　　[HTTP Injector]  
+　　　[CONNECT+SSH-联通NET]  
+　　　　载荷.md  
+　　　　HTTP代理.md  
+　　　　说明.md  
+　　　　...  
+　　　[模式 2]  
+　　　[模式 3] 
+　　　[...]  
+　　[工具 2]  
+　　[工具 3]  
 　　[...]  
-　[原理和教程]  
-　　文档格式.md  
-　　...  
-　LISENCE
+　[移动]  
+　[电信]  
+　文档格式.md  
 　README.md  
 
 ##如何加入协作？
