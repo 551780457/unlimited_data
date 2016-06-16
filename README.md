@@ -12,7 +12,7 @@ Unlimited Data Repo
 4.仅当测试免流成功方可使用！切记！  
   
 <b>推荐仓库客户端</b>  
-Windows:<a href="https://www.sourcetreeapp.com//">Source Tree</a>.<a href="https://desktop.github.com/">Github</a>.<a href="https://git-for-windows.github.io/">Git</a>  
+Windows:<a href="https://desktop.github.com/">Github</a>.<a href="https://git-for-windows.github.io/">Git</a>  
 macOS:<a href="https://www.git-tower.com/">Tower</a>  
 Android: <a href="http://www.coolapk.com/apk/com.alorma.github">GitSkarios</a>  
   
@@ -25,7 +25,7 @@ Android: <a href="http://www.coolapk.com/apk/com.alorma.github">GitSkarios</a>
 　　[模式 2]  
 　　[模式 3]  
 　　[...]  
-　[教程原理]  
+　[原理和教程]  
 　　文档格式.md  
 　　...  
 　LISENCE
